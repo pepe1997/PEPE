@@ -13,7 +13,7 @@ namespace Prueba
             int opcion_menu = 0;
             do
             {
-                Console.Write("\n|----------------------|--------------------|");
+                Console.Write("\n");
                 Console.Write("\n| 1. Calcular la suma de (n) numeros primeros|");
                 Console.Write("\n| 2. Calcular Factorial de un numero|");
                 Console.Write("\n| 3. Calcular el mayor de 3 numero|");

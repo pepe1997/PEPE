@@ -1,0 +1,8 @@
+C:\Users\Josej\Source\Repos\PEPE\HOLA\bin\Debug\HOLA.exe.config
+C:\Users\Josej\Source\Repos\PEPE\HOLA\bin\Debug\HOLA.exe
+C:\Users\Josej\Source\Repos\PEPE\HOLA\bin\Debug\HOLA.pdb
+C:\Users\Josej\Source\Repos\PEPE\HOLA\obj\Debug\HOLA.csproj.AssemblyReference.cache
+C:\Users\Josej\Source\Repos\PEPE\HOLA\obj\Debug\HOLA.csproj.SuggestedBindingRedirects.cache
+C:\Users\Josej\Source\Repos\PEPE\HOLA\obj\Debug\HOLA.csproj.CoreCompileInputs.cache
+C:\Users\Josej\Source\Repos\PEPE\HOLA\obj\Debug\HOLA.exe
+C:\Users\Josej\Source\Repos\PEPE\HOLA\obj\Debug\HOLA.pdb
